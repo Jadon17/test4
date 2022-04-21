@@ -1,0 +1,23 @@
+img {
+    width: 600px;
+    margin-top: 50px;
+    border: black solid 3px;
+    border-radius: 72px;
+}
+
+body {
+    font-family: 'lobster Two';
+}
+button{
+    font-family: 'Bookman Old Style';
+    left: 0;
+    float: right;
+    margin-right: 20px;
+    font-size: 20px;
+    background-color:cornflowerblue;
+    color: black;
+    
+}
+canvas{
+    border: black groove 3px;
+}
